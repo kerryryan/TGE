@@ -27,3 +27,4 @@ Contents:
    arduino_stoplight
    state_machine_XRD
    digital_representation
+   strain_gage_activity
